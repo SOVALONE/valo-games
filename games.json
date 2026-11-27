@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "hytale",
+      "name": "Hytale",
+      "by": "Hypixel Studios",
+      "desc": "Пісочниця-пригода: світ із блоків, підземелля, будівництво, мультиплеєр і моди. Купується й завантажується на офіційному сайті.",
+      "kind": "link",
+      "site": "https://hytale.com",
+      "license": "store"
+    }
+  ]
+}
