@@ -1,4 +1,4 @@
-# Adds or updates a game in games.json (and uploads its file to a GitHub Release of this repository).
+﻿# Adds or updates a game in games.json (and uploads its file to a GitHub Release of this repository).
 #   -File      the game: .zip (portable, -Exe = what to run), .exe (one program, or -Installer for an installer)
 #   no -File   only a link to -Site (paid / other people's games)
 #   -Torrent   optional .torrent to offer as an alternative download;  -Cover  optional image

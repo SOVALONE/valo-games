@@ -1,14 +1,28 @@
 {
-  "version": 1,
-  "games": [
-    {
-      "id": "hytale",
-      "name": "Hytale",
-      "by": "Hypixel Studios",
-      "desc": "Пісочниця-пригода: світ із блоків, підземелля, будівництво, мультиплеєр і моди. Купується й завантажується на офіційному сайті.",
-      "kind": "link",
-      "site": "https://hytale.com",
-      "license": "store"
-    }
-  ]
+    "version":  1,
+    "games":  [
+                  {
+                      "id":  "hytale",
+                      "name":  "Hytale",
+                      "by":  "Hypixel Studios",
+                      "desc":  "Пісочниця-пригода: світ із блоків, підземелля, будівництво, мультиплеєр і моди. Купується й завантажується на офіційному сайті.",
+                      "kind":  "link",
+                      "site":  "https://hytale.com",
+                      "license":  "store"
+                  },
+                  {
+                      "id":  "valo-test",
+                      "name":  "Тест valo",
+                      "by":  "valo",
+                      "desc":  "тимчасова перевірка",
+                      "site":  "",
+                      "license":  "own",
+                      "kind":  "zip",
+                      "version":  "0.1",
+                      "url":  "https://github.com/SOVALONE/valo-games/releases/download/valo-test-0.1/TestGame.zip",
+                      "sha256":  "fb7f4e132761a9ea451a865597354f0b7ee5b69d050e5056845b6f720c2d99bb",
+                      "size":  267,
+                      "exe":  "TestGame.exe"
+                  }
+              ]
 }
